@@ -1,0 +1,1 @@
+document.getElementById("demo") = "hello its me javascript";
